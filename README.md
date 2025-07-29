@@ -4,10 +4,8 @@ This folder is part of Uzeb Khan's **Master 50 Plan**.
 
 ## 🔍 Contents
 
-- Topic: [Insert topic here]
-- Goals: [Insert learning goal here]
-- Source/Resources: [Link to course or playlist]
+- Topic:PYTHON
+- Goals:Python For DS And ML
+- Source/Resources: [https://youtu.be/ZEKiIwWv9nM?si=v9w7khFfXTxy0F1v,PythonDocdumentation]
 
 ---
-
-🚀 Document your progress here daily or weekly.
